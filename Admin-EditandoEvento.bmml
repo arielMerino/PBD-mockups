@@ -1,0 +1,82 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1031" measuredH="675" mockupW="1031" mockupH="675">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1031" h="675" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%0Ahttp%3A//www.contigopanycebolla.cl/home</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Canvas" x="15" y="247" w="997" h="409" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Canvas" x="30" y="261" w="169" h="339" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Canvas" x="822" y="261" w="175" h="338" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Image" x="257" y="72" w="497" h="167" measuredW="2048" measuredH="1174" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../REALIZACI%25C3%2593N/maqueta%25202/maqueta/assets/SACPYC.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Canvas" x="199" y="261" w="688" h="338" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::ButtonBar" x="199" y="276" w="632" h="21" measuredW="632" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs/>
+        <text>Agenda%2C%20Cotizaciones%2C%20Tipo%20Evento%2C%20Compras%2C%20Garzones%2C%20Proveedores%2C%20Notificaciones</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Calendar" x="225" y="382" w="96" h="96" measuredW="96" measuredH="96" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Canvas" x="362" y="354" w="449" h="152" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Label" x="377" y="369" w="-1" h="-1" measuredW="241" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Eventos%20para%20el%20d%EDa%20s%E1bado%202%20de%20febrero%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Label" x="416" y="402" w="-1" h="-1" measuredW="51" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Evento%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="417" y="437" w="-1" h="-1" measuredW="54" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Evento%202</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Canvas" x="277" y="284" w="504" h="273" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Label" x="311" y="312" w="-1" h="-1" measuredW="51" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Evento%201</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::TextArea" x="316" y="342" w="450" h="103" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Evento%20a%20realizarzse%20el%20d%EDa%202%20de%20Febrero%2C%20es%20un%20matrimonio%20para%0A50%20personas%20y%20%3Cm%E1s%20informaci%F3n%3E</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Button" x="377" y="489" w="-1" h="-1" measuredW="57" measuredH="24" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Editar</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Button" x="495" y="489" w="-1" h="-1" measuredW="69" measuredH="24" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Eliminar</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Button" x="618" y="489" w="-1" h="-1" measuredW="77" measuredH="24" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Admin-Agenda%26bm%3BAdmin-Agenda.bmml%26bm%3BAdmin-Agenda.bmml%26bm%3BAdmin-Agenda.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22618%2C489%2C695%2C513%22%20href%3D%22Admin-Agenda.bmml%22%20alt%3D%22Admin-Agenda%22%20id%3D%2261%22/%3E</map>
+        <text>Regresar</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::ButtonBar" x="199" y="276" w="688" h="21" measuredW="688" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2CAdmin-Cotizaciones%26bm%3BAdmin-Cotizaciones.bmml%26bm%3BAdmin-Cotizaciones.bmml%26bm%3BAdmin-Cotizaciones.bmml%2CAdmin-Tipo%20Evento%26bm%3BAdmin-Tipo%20Evento.bmml%26bm%3BAdmin-Tipo%20Evento.bmml%26bm%3BAdmin-Tipo%20Evento.bmml%2CAdmin-Compras%26bm%3BAdmin-Compras.bmml%26bm%3BAdmin-Compras.bmml%26bm%3BAdmin-Compras.bmml%2CAdmin-Garzones%26bm%3BAdmin-Garzones.bmml%26bm%3BAdmin-Garzones.bmml%26bm%3BAdmin-Garzones.bmml%2CAdmin-Proveedores%26bm%3BAdmin-Proveedores.bmml%26bm%3BAdmin-Proveedores.bmml%26bm%3BAdmin-Proveedores.bmml%2CAdmin-Notificaciones%26bm%3BAdmin-Notificaciones.bmml%26bm%3BAdmin-Notificaciones.bmml%26bm%3BAdmin-Notificaciones.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22269%2C276%2C371%2C297%22%20href%3D%22Admin-Cotizaciones.bmml%22%20alt%3D%22Admin-Cotizaciones%22%20id%3D%2262%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22371%2C276%2C466%2C297%22%20href%3D%22Admin-Tipo%2520Evento.bmml%22%20alt%3D%22Admin-Tipo%20Evento%22%20id%3D%2262%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22466%2C276%2C543%2C297%22%20href%3D%22Admin-Compras.bmml%22%20alt%3D%22Admin-Compras%22%20id%3D%2262%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22543%2C276%2C625%2C297%22%20href%3D%22Admin-Garzones.bmml%22%20alt%3D%22Admin-Garzones%22%20id%3D%2262%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22625%2C276%2C723%2C297%22%20href%3D%22Admin-Proveedores.bmml%22%20alt%3D%22Admin-Proveedores%22%20id%3D%2262%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22723%2C276%2C831%2C297%22%20href%3D%22Admin-Notificaciones.bmml%22%20alt%3D%22Admin-Notificaciones%22%20id%3D%2262%22/%3E</map>
+        <text>Agenda%2C%20Cotizaciones%2C%20Tipo%20Evento%2C%20Compras%2C%20Garzones%2C%20Proveedores%2C%20Notificaciones%2C%20Men%FA</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::ButtonBar" x="199" y="276" w="688" h="21" measuredW="688" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs/>
+        <text>Agenda%2C%20Cotizaciones%2C%20Tipo%20Evento%2C%20Compras%2C%20Garzones%2C%20Proveedores%2C%20Notificaciones%2C%20Men%FA</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

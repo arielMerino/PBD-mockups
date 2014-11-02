@@ -1,0 +1,131 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1031" measuredH="675" mockupW="1031" mockupH="675">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1031" h="675" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%0Ahttp%3A//www.contigopanycebolla.cl/home</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Canvas" x="15" y="247" w="997" h="409" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Canvas" x="30" y="261" w="169" h="339" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Canvas" x="822" y="261" w="175" h="338" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Image" x="257" y="72" w="497" h="167" measuredW="2048" measuredH="1174" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../REALIZACI%25C3%2593N/maqueta%25202/maqueta/assets/SACPYC.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Canvas" x="199" y="261" w="688" h="338" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::ButtonBar" x="199" y="276" w="632" h="21" measuredW="632" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs/>
+        <selectedIndex>1</selectedIndex>
+        <text>Agenda%2C%20Cotizaciones%2C%20Tipo%20Evento%2C%20Compras%2C%20Garzones%2C%20Proveedores%2C%20Notificaciones</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="242" y="327" w="-1" h="-1" measuredW="135" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Solicitudes%20pendientes</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::DataGrid" x="264" y="363" w="-1" h="-1" measuredW="371" measuredH="108" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Cotizaci%F3n%20%5E%2C%20Fecha%20%5Ev%2C%20Cliente%20v%0ASolicitud%20cotizaci%F3n%201%2C%2010-04-2013%2C%20Daniel%20Vargas%0ASolicitud%20cotizaci%F3n%202%2C14-04-2013%2C%20Ariel%20Meri%F1o%0ASolicitud%20cotizaci%F3n%203%2C22-04-2013%2C%20Matias%20Campos%20Lopez</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="242" y="486" w="-1" h="-1" measuredW="135" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cotizaciones%20enviadas</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::DataGrid" x="264" y="522" w="-1" h="-1" measuredW="187" measuredH="48" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cliente%20%5E%2C%20Fecha%20envio%20v%0AMatias%20Per%E9z%2C%2017-04-2013</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Button" x="665" y="414" w="-1" h="-1" measuredW="135" measuredH="24" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Generar%20cotizaci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Canvas" x="250" y="283" w="535" h="296" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="293" y="312" w="-1" h="-1" measuredW="61" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cotizando</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::DataGrid" x="292" y="349" w="446" h="78" measuredW="195" measuredH="78" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%CDtem%20%5E%2C%20Cantidad%20%5Ev%2C%20Precio%20v%0APlato%201%2C%2050%2C%20%2480000%0APlato%202%2C%2030%2C%20%2410500</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Button" x="610" y="507" w="-1" h="-1" measuredW="77" measuredH="24" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Regresar</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Button" x="304" y="507" w="-1" h="-1" measuredW="135" measuredH="24" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Generar%20cotizaci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Button" x="479" y="507" w="-1" h="-1" measuredW="92" measuredH="24" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Crear%20%EDtems</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::TextArea" x="292" y="442" w="446" h="51" measuredW="200" measuredH="140" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Comentarios%20sobre%20la%20cotizaci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Canvas" x="264" y="276" w="505" h="315" measuredW="100" measuredH="70" zOrder="19" locked="false" isInGroup="-1"/>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::TextInput" x="313" y="326" w="-1" h="-1" measuredW="109" measuredH="24" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ingresar%20nombre</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="293" y="297" w="-1" h="-1" measuredW="141" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Creaci%F3n%20plato%20o%20bebida</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::ComboBox" x="313" y="363" w="-1" h="-1" measuredW="107" measuredH="24" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ingresar%20tipo</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::DataGrid" x="313" y="404" w="-1" h="-1" measuredW="251" measuredH="78" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ingrediente%20%5E%2C%20cantidad%20%5E%2C%20medida%20v%0AIngrediente%201%2C%200.3%2C%20gr%0AIngrediente%202%2C%202%2C%20cucharadas</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Button" x="313" y="507" w="-1" h="-1" measuredW="56" measuredH="24" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Admin-Cotizando%26bm%3BAdmin-Cotizando.bmml%26bm%3BAdmin-Cotizando.bmml%26bm%3BAdmin-Cotizando.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22313%2C507%2C369%2C531%22%20href%3D%22Admin-Cotizando.bmml%22%20alt%3D%22Admin-Cotizando%22%20id%3D%2270%22/%3E</map>
+        <text>Crear</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Button" x="582" y="431" w="-1" h="-1" measuredW="180" measuredH="24" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Admin-CreandoItemCotizacionIngrediente%26bm%3BAdmin-CreandoItemCotizacionIngrediente.bmml%26bm%3BAdmin-CreandoItemCotizacionIngrediente.bmml%26bm%3BAdmin-CreandoItemCotizacionIngrediente.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22582%2C431%2C762%2C455%22%20href%3D%22Admin-CreandoItemCotizacionIngrediente.bmml%22%20alt%3D%22Admin-CreandoItemCotizacionIngrediente%22%20id%3D%2271%22/%3E</map>
+        <text>Ingresar%20nuevo%20ingrediente</text>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::ButtonBar" x="199" y="276" w="688" h="21" measuredW="688" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2CAdmin-Cotizaciones%26bm%3BAdmin-Cotizaciones.bmml%26bm%3BAdmin-Cotizaciones.bmml%26bm%3BAdmin-Cotizaciones.bmml%2CAdmin-Tipo%20Evento%26bm%3BAdmin-Tipo%20Evento.bmml%26bm%3BAdmin-Tipo%20Evento.bmml%26bm%3BAdmin-Tipo%20Evento.bmml%2CAdmin-Compras%26bm%3BAdmin-Compras.bmml%26bm%3BAdmin-Compras.bmml%26bm%3BAdmin-Compras.bmml%2CAdmin-Garzones%26bm%3BAdmin-Garzones.bmml%26bm%3BAdmin-Garzones.bmml%26bm%3BAdmin-Garzones.bmml%2CAdmin-Proveedores%26bm%3BAdmin-Proveedores.bmml%26bm%3BAdmin-Proveedores.bmml%26bm%3BAdmin-Proveedores.bmml%2CAdmin-Notificaciones%26bm%3BAdmin-Notificaciones.bmml%26bm%3BAdmin-Notificaciones.bmml%26bm%3BAdmin-Notificaciones.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22269%2C276%2C371%2C297%22%20href%3D%22Admin-Cotizaciones.bmml%22%20alt%3D%22Admin-Cotizaciones%22%20id%3D%2272%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22371%2C276%2C466%2C297%22%20href%3D%22Admin-Tipo%2520Evento.bmml%22%20alt%3D%22Admin-Tipo%20Evento%22%20id%3D%2272%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22466%2C276%2C543%2C297%22%20href%3D%22Admin-Compras.bmml%22%20alt%3D%22Admin-Compras%22%20id%3D%2272%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22543%2C276%2C625%2C297%22%20href%3D%22Admin-Garzones.bmml%22%20alt%3D%22Admin-Garzones%22%20id%3D%2272%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22625%2C276%2C723%2C297%22%20href%3D%22Admin-Proveedores.bmml%22%20alt%3D%22Admin-Proveedores%22%20id%3D%2272%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22723%2C276%2C831%2C297%22%20href%3D%22Admin-Notificaciones.bmml%22%20alt%3D%22Admin-Notificaciones%22%20id%3D%2272%22/%3E</map>
+        <text>Agenda%2C%20Cotizaciones%2C%20Tipo%20Evento%2C%20Compras%2C%20Garzones%2C%20Proveedores%2C%20Notificaciones%2C%20Men%FA</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::ButtonBar" x="199" y="276" w="688" h="21" measuredW="688" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs/>
+        <selectedIndex>1</selectedIndex>
+        <text>Agenda%2C%20Cotizaciones%2C%20Tipo%20Evento%2C%20Compras%2C%20Garzones%2C%20Proveedores%2C%20Notificaciones%2C%20Men%FA</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

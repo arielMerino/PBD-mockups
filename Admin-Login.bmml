@@ -1,0 +1,42 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1031" measuredH="675" mockupW="1031" mockupH="675">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1031" h="675" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%0Ahttp%3A//www.contigopanycebolla.cl/home</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Canvas" x="15" y="247" w="997" h="409" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Canvas" x="30" y="261" w="169" h="339" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Canvas" x="822" y="261" w="175" h="338" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Image" x="257" y="72" w="497" h="167" measuredW="2048" measuredH="1174" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../REALIZACI%25C3%2593N/maqueta%25202/maqueta/assets/SACPYC.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Canvas" x="213" y="262" w="591" h="337" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Label" x="258" y="276" w="108" h="-1" measuredW="68" measuredH="36" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Login</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Canvas" x="258" y="312" w="496" h="236" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::TextInput" x="292" y="354" w="432" h="-1" measuredW="56" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Usuario</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::TextInput" x="292" y="438" w="432" h="-1" measuredW="66" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Button" x="292" y="495" w="-1" h="-1" measuredW="72" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Admin-Agenda%26bm%3BAdmin-Agenda.bmml%26bm%3BAdmin-Agenda.bmml%26bm%3BAdmin-Agenda.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22292%2C495%2C364%2C519%22%20href%3D%22Admin-Agenda.bmml%22%20alt%3D%22Admin-Agenda%22%20id%3D%2247%22/%3E</map>
+        <text>Ingresar</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
