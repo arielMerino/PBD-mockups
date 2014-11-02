@@ -1,0 +1,76 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1031" measuredH="675" mockupW="1031" mockupH="675">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1031" h="675" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%0Ahttp%3A//www.contigopanycebolla.cl/home</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Canvas" x="15" y="247" w="997" h="409" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Canvas" x="30" y="261" w="169" h="339" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::MultilineButton" x="45" y="276" w="139" h="66" measuredW="123" measuredH="66" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <href>NuestrosProductos-CoffeBreaks%26bm%3BNuestrosProductos-CoffeBreaks.bmml%26bm%3BNuestrosProductos-CoffeBreaks.bmml%26bm%3BNuestrosProductos-CoffeBreaks.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C276%2C184%2C342%22%20href%3D%22NuestrosProductos-CoffeBreaks.bmml%22%20alt%3D%22NuestrosProductos-CoffeBreaks%22%20id%3D%2227%22/%3E</map>
+        <text>Coffe%20Breaks</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::MultilineButton" x="45" y="357" w="139" h="66" measuredW="92" measuredH="66" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <href>NuestrosProductos-Catering%26bm%3BNuestrosProductos-Catering.bmml%26bm%3BNuestrosProductos-Catering.bmml%26bm%3BNuestrosProductos-Catering.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C357%2C184%2C423%22%20href%3D%22NuestrosProductos-Catering.bmml%22%20alt%3D%22NuestrosProductos-Catering%22%20id%3D%2228%22/%3E</map>
+        <text>Catering</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::MultilineButton" x="45" y="438" w="139" h="66" measuredW="134" measuredH="61" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>10066329</color>
+        <size>11</size>
+        <text>%20Cumplea%F1os/Cenas</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::MultilineButton" x="45" y="519" w="139" h="66" measuredW="115" measuredH="66" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>NuestrosProductos-Matrimonios%26bm%3BNuestrosProductos-Matrimonios.bmml%26bm%3BNuestrosProductos-Matrimonios.bmml%26bm%3BNuestrosProductos-Matrimonios.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2245%2C519%2C184%2C585%22%20href%3D%22NuestrosProductos-Matrimonios.bmml%22%20alt%3D%22NuestrosProductos-Matrimonios%22%20id%3D%2230%22/%3E</map>
+        <text>Matrimonios</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Image" x="548" y="343" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::ButtonBar" x="207" y="261" w="600" h="21" measuredW="437" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2CCotizaciones-Nueva-1%26bm%3BCotizaciones-Nueva-1.bmml%26bm%3BCotizaciones-Nueva-1.bmml%26bm%3BCotizaciones-Nueva-1.bmml%2CContactenos%26bm%3BContactenos.bmml%26bm%3BContactenos.bmml%26bm%3BContactenos.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22401%2C261%2C469%2C282%22%20href%3D%22Blog.bmml%22%20alt%3D%22Blog%22%20id%3D%2235%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22469%2C261%2C668%2C282%22%20href%3D%22Cotizaciones-Nueva-1.bmml%22%20alt%3D%22Cotizaciones-Nueva-1%22%20id%3D%2235%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22668%2C261%2C805%2C282%22%20href%3D%22Contactenos.bmml%22%20alt%3D%22Contactenos%22%20id%3D%2235%22/%3E</map>
+        <text>Nuestros%20Productos%2C%20Cotiza%20con%20Nosotros%2C%20Cont%E1ctenos</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::TextArea" x="207" y="546" w="600" h="93" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>%BFEst%E1s%20de%20cumplea%F1os%3F%20o%20Quiz%E1s%20tienes%20invitados%20a%20comer.%20Te%20proponemos%20que%20lo%20pases%20bien%20con%20tus%20visitas%20y%20dejes%20que%20nosotros%20nos%20ocupemos%20de%20la%20comida.%20Organizamos%20cumplea%F1os%2C%20cocktails%20y%20cenas%20privadas%20para%20todos%20los%20gustos%20y%20edades.%20Armamos%20un%20men%FA%20personalizado%20en%20base%20a%20tus%20requerimientos%20y%20tus%20gustos.%20Incluso%20podemos%20encargarnos%20de%20la%20torta%20y%20la%20decoraci%F3n%20si%20lo%20prefieres.</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Canvas" x="822" y="261" w="175" h="338" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Image" x="257" y="72" w="497" h="167" measuredW="2048" measuredH="1174" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/SACPYC.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::SubTitle" x="207" y="296" w="-1" h="-1" measuredW="235" measuredH="27" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cumplea%F1os%20y%20Cenas</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Image" x="207" y="330" w="-1" h="-1" measuredW="600" measuredH="200" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/cumplecenas.gif</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

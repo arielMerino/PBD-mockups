@@ -1,0 +1,31 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1031" measuredH="675" mockupW="1031" mockupH="675">
+  <controls>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Canvas" x="15" y="247" w="997" h="409" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Canvas" x="30" y="261" w="169" h="339" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::ButtonBar" x="207" y="261" w="600" h="21" measuredW="437" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>NuestrosProductos-CoffeBreaks%26bm%3BNuestrosProductos-CoffeBreaks.bmml%26bm%3BNuestrosProductos-CoffeBreaks.bmml%26bm%3BNuestrosProductos-CoffeBreaks.bmml%2C%2CCotizaciones-Nueva-1%26bm%3BCotizaciones-Nueva-1.bmml%26bm%3BCotizaciones-Nueva-1.bmml%26bm%3BCotizaciones-Nueva-1.bmml%2CContactenos%26bm%3BContactenos.bmml%26bm%3BContactenos.bmml%26bm%3BContactenos.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22207%2C261%2C401%2C282%22%20href%3D%22NuestrosProductos-CoffeBreaks.bmml%22%20alt%3D%22NuestrosProductos-CoffeBreaks%22%20id%3D%2235%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22469%2C261%2C668%2C282%22%20href%3D%22Cotizaciones-Nueva-1.bmml%22%20alt%3D%22Cotizaciones-Nueva-1%22%20id%3D%2235%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22668%2C261%2C805%2C282%22%20href%3D%22Contactenos.bmml%22%20alt%3D%22Contactenos%22%20id%3D%2235%22/%3E</map>
+        <selectedIndex>1</selectedIndex>
+        <text>Nuestros%20Productos%2C%20Blog%2C%20Cotiza%20con%20Nosotros%2C%20Cont%E1ctenos</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::TextArea" x="207" y="548" w="600" h="93" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Canvas" x="822" y="261" w="175" h="338" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Image" x="257" y="72" w="497" h="167" measuredW="2048" measuredH="1174" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/SACPYC.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1031" h="675" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%0Ahttp%3A//www.contigopanycebolla.cl/blog</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

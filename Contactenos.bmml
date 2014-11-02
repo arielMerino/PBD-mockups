@@ -1,0 +1,65 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1031" measuredH="675" mockupW="1031" mockupH="675">
+  <controls>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Canvas" x="15" y="247" w="997" h="409" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Canvas" x="30" y="261" w="169" h="339" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::ButtonBar" x="207" y="261" w="600" h="21" measuredW="387" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>NuestrosProductos-CoffeBreaks%26bm%3BNuestrosProductos-CoffeBreaks.bmml%26bm%3BNuestrosProductos-CoffeBreaks.bmml%26bm%3BNuestrosProductos-CoffeBreaks.bmml%2CCotizaciones-Nueva-1%26bm%3BCotizaciones-Nueva-1.bmml%26bm%3BCotizaciones-Nueva-1.bmml%26bm%3BCotizaciones-Nueva-1.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22207%2C261%2C427%2C282%22%20href%3D%22NuestrosProductos-CoffeBreaks.bmml%22%20alt%3D%22NuestrosProductos-CoffeBreaks%22%20id%3D%2235%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22427%2C261%2C651%2C282%22%20href%3D%22Cotizaciones-Nueva-1.bmml%22%20alt%3D%22Cotizaciones-Nueva-1%22%20id%3D%2235%22/%3E</map>
+        <selectedIndex>2</selectedIndex>
+        <text>Nuestros%20Productos%2C%20Cotiza%20con%20Nosotros%2C%20Cont%E1ctenos</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Canvas" x="822" y="261" w="175" h="338" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Image" x="257" y="72" w="497" h="167" measuredW="2048" measuredH="1174" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/SACPYC.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1031" h="675" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%0Ahttp%3A//www.contigopanycebolla.cl/contacto</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::TextInput" x="208" y="366" w="153" h="-1" measuredW="106" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nombre%20Apellido</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::TextInput" x="208" y="412" w="153" h="-1" measuredW="149" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>correo.contacto@mail.cl</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::TextArea" x="208" y="459" w="301" h="140" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Todo%20el%20texto%20del%20mensaje.</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="209" y="347" w="-1" h="-1" measuredW="131" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tu%20nombre%20%28requerido%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="207" y="390" w="-1" h="-1" measuredW="120" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tu%20Email%20%28requerido%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Label" x="208" y="438" w="-1" h="-1" measuredW="69" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tu%20Mensaje</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::MultilineButton" x="521" y="564" w="75" h="34" measuredW="139" measuredH="66" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enviar</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::SubTitle" x="211" y="300" w="-1" h="-1" measuredW="101" measuredH="27" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Contacto</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

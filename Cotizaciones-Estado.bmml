@@ -1,0 +1,96 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1031" measuredH="675" mockupW="1031" mockupH="675">
+  <controls>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Canvas" x="15" y="247" w="997" h="409" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Canvas" x="30" y="261" w="169" h="339" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::ButtonBar" x="207" y="261" w="600" h="21" measuredW="387" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>NuestrosProductos-CoffeBreaks%26bm%3BNuestrosProductos-CoffeBreaks.bmml%26bm%3BNuestrosProductos-CoffeBreaks.bmml%26bm%3BNuestrosProductos-CoffeBreaks.bmml%2C%2CContactenos%26bm%3BContactenos.bmml%26bm%3BContactenos.bmml%26bm%3BContactenos.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22207%2C261%2C427%2C282%22%20href%3D%22NuestrosProductos-CoffeBreaks.bmml%22%20alt%3D%22NuestrosProductos-CoffeBreaks%22%20id%3D%2235%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22651%2C261%2C806%2C282%22%20href%3D%22Contactenos.bmml%22%20alt%3D%22Contactenos%22%20id%3D%2235%22/%3E</map>
+        <selectedIndex>1</selectedIndex>
+        <text>Nuestros%20Productos%2C%20Cotiza%20con%20Nosotros%2C%20Cont%E1ctenos</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Canvas" x="822" y="261" w="175" h="338" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Image" x="257" y="72" w="497" h="167" measuredW="2048" measuredH="1174" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/SACPYC.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1031" h="675" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%0Ahttp%3A//www.contigopanycebolla.cl/cotizacion</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::MultilineButton" x="44" y="355" w="139" h="66" measuredW="80" measuredH="66" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>10066329</color>
+        <text>Estado%0ACotizaci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::MultilineButton" x="44" y="274" w="139" h="66" measuredW="124" measuredH="62" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <href>Cotizaciones-Nueva-1%26bm%3BCotizaciones-Nueva-1.bmml%26bm%3BCotizaciones-Nueva-1.bmml%26bm%3BCotizaciones-Nueva-1.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2244%2C274%2C183%2C340%22%20href%3D%22Cotizaciones-Nueva-1.bmml%22%20alt%3D%22Cotizaciones-Nueva-1%22%20id%3D%2243%22/%3E</map>
+        <size>12</size>
+        <text>Nueva%20Cotizaci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::FieldSet" x="269" y="323" w="200" h="191" measuredW="200" measuredH="170" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Datos%20Cotizaci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::TextInput" x="285" y="365" w="169" h="-1" measuredW="82" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ABC12334a</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::TextInput" x="288" y="426" w="166" h="-1" measuredW="149" measuredH="24" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>correo.contacto@mail.cl</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Label" x="285" y="338" w="-1" h="-1" measuredW="113" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>C%F3digo%20Cotizaci%F3n%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="289" y="403" w="-1" h="-1" measuredW="43" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Correo%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::MultilineButton" x="374" y="465" w="80" h="33" measuredW="40" measuredH="66" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ir</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::TextArea" x="529" y="374" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Al%20momento%20de%20enviar%20una%20solicitud%20de%20cotizaci%F3n%20se%20le%20env%EDa%20un%20c%F3digo%20al%20correo%20de%20contacto.%0Aestos%20son%20datos%20necesarios%20para%20revisar%20el%20estado%20de%20la%20Cotizaci%F3n.</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Link" x="270" y="519" w="-1" h="-1" measuredW="59" measuredH="19" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Cotizaciones%20-%20Estado-Pendiente%26bm%3BCotizaciones%20-%20Estado-Pendiente.bmml%26bm%3BCotizaciones%20-%20Estado-Pendiente.bmml%26bm%3BCotizaciones%20-%20Estado-Pendiente.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22270%2C519%2C329%2C538%22%20href%3D%22Cotizaciones%2520-%2520Estado-Pendiente.bmml%22%20alt%3D%22Cotizaciones%20-%20Estado-Pendiente%22%20id%3D%2251%22/%3E</map>
+        <text>pendiente</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Link" x="269" y="538" w="-1" h="-1" measuredW="66" measuredH="19" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Cotizaciones%20-%20Estado-EnProceso%26bm%3BCotizaciones%20-%20Estado-EnProceso.bmml%26bm%3BCotizaciones%20-%20Estado-EnProceso.bmml%26bm%3BCotizaciones%20-%20Estado-EnProceso.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22269%2C538%2C335%2C557%22%20href%3D%22Cotizaciones%2520-%2520Estado-EnProceso.bmml%22%20alt%3D%22Cotizaciones%20-%20Estado-EnProceso%22%20id%3D%2252%22/%3E</map>
+        <text>en%20proceso</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Link" x="269" y="557" w="-1" h="-1" measuredW="30" measuredH="19" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Cotizaciones%20-%20Estado-Lista%26bm%3BCotizaciones%20-%20Estado-Lista.bmml%26bm%3BCotizaciones%20-%20Estado-Lista.bmml%26bm%3BCotizaciones%20-%20Estado-Lista.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22269%2C557%2C299%2C576%22%20href%3D%22Cotizaciones%2520-%2520Estado-Lista.bmml%22%20alt%3D%22Cotizaciones%20-%20Estado-Lista%22%20id%3D%2253%22/%3E</map>
+        <text>Lista</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
